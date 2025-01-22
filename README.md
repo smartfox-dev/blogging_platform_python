@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/smartfox-dev/blogging_platform_python.git
    cd blogging_platform
 
 2. Create and activate a virtual environment:
